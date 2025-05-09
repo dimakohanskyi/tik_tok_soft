@@ -1,8 +1,13 @@
 .venv
 __pycache__
 TODO.txt
-videos
-short_video_templates
+
+
+videos/*
 ready_tik_tok
-origin_video_cut
-.DS_Store
+ready_tik_tok/*
+ready_videos/*
+set_for_tik_tok/*
+short_videos/*
+short_video_timelines/*
+
